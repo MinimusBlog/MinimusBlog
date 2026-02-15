@@ -99,15 +99,6 @@ System that predicts **possible computer failures** and their causes.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinimusBlog&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinimusBlog&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="165"/>
-</p>
-
----
-
 ## 🐍 Contribution Animation
 
 <p align="center">
